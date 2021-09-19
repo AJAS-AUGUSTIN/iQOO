@@ -1,0 +1,396 @@
+.header
+{
+    background-color: #1a1a1a;
+    margin:0;
+    justify-content: center;
+    align-items: center;
+}
+.headerelements
+{
+    display: flex;
+    align-items: center;
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+}
+.mainlogo
+{
+    margin-top: 1px;
+    margin-left: 10%;
+    image-resolution: 100%;
+    
+}
+.mainphoto
+{
+    width: 70%;
+    display: flex;
+    overflow-x: auto;
+    scale: 100%;
+    margin-left: 15%;
+}
+.mainphoto::-webkit-scrollbar{
+    display: none;
+}
+.mainphoto img
+{
+    position: relative;
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.swipe
+{
+    font-size: 12px;
+}
+.swipe ::-webkit-scrollbar
+{
+    display: none;
+    opacity: 0;
+}
+.elements
+{
+    display: flex;
+}
+.home{
+    margin-left: 95px;
+    text-decoration: none;
+    color: white;
+}
+.iqooz3
+{
+    margin-left: 35px;
+    text-decoration: none;
+        color: white;
+}
+.iqoo7
+{
+    margin-left: 35px;
+    text-decoration: none;
+        color: white;
+}
+.iq007legend
+{
+    margin-left: 35px;
+    text-decoration: none;
+        color: white;
+}
+.iq003
+{
+    margin-left: 35px;
+    text-decoration: none;
+        color: white;
+}
+.support
+{
+    margin-left: 35px;
+    text-decoration: none;
+        color: white;
+}
+.ui
+{
+    margin-left: 35px;
+    text-decoration: none;
+        color: white;
+}
+.about
+{
+    margin-left: 35px;
+    text-decoration: none;
+    color: white;
+}
+.material-icons
+{
+    margin-left: 150px;
+    color: white;
+}
+.button123
+{
+    width: 300px;
+    margin-left: 550px;
+    border: 1px solid #f0b318;
+    text-decoration: none;
+    margin: 40px auto;
+    
+    line-height: 64px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: center;
+    position: relative;
+    width: 566px;
+    height: 70px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: transparent;
+}
+.buynow
+{
+    cursor: pointer;
+    font-size: 26px;   
+    background-color: transparent;
+    border: none;
+    color: #f0b318;
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+}
+#accessories
+{
+    margin-left: 35%;
+    position: relative;
+    font-size: 65px;
+    line-height: 1.2;
+    color: #f0b318;
+    font-style: italic;
+    margin-top: 30px;
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+}
+.details
+{
+    cursor: pointer;
+    margin-left: 25%;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+}
+.seconddetails
+{
+    margin-left: 10%;
+}
+.thirddetails
+{
+    margin-left: 11%;
+}
+.price
+{
+    color: #f0b318;
+}
+.images
+{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#earphones
+{
+    margin-left: 20%;
+}
+#charger
+{
+    margin-left: 5%;
+}
+#cable
+{
+    margin-left: 18%;
+}
+h5{
+    font-size: 18px;
+    color: #f0b318;
+    margin-left: 30%;
+}
+
+#fuel
+{
+    font-weight: bold;
+    margin-left: 24%;
+    position: relative;
+    font-size: 65px;
+    line-height: 1.2;
+    color: #f0b318;
+    font-style: italic;
+    margin-top: 30px;
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee"; 
+}
+#reviews
+{
+    font-weight: bold;
+    margin-left: 31%;
+    position: relative;
+    font-size: 65px;
+    line-height: 1.2;
+    color: #f0b318;
+    font-style: italic;
+    margin-top: 30px;
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee"; 
+}
+.video
+{
+    margin-left: 15%;
+}
+.expert_reviews
+{
+    margin-left: 14%;
+    width: 1080px;
+    border: 1px solid white;
+    height: 407.5px;
+    display: flex;
+    overflow-x:auto ;
+}
+.review91
+{
+    padding-right: 50%;
+    color: #f0b318;
+    font-size:50px ;   
+}
+.img1
+{
+    margin-left: 40%;
+    padding-top: 0%;
+    padding-bottom: 0px;
+}
+.quote1
+{
+    margin-top: 8%;
+    margin-left: 10%;
+}
+.bgr_reviews
+{
+    padding-right: 50%;
+    color: #f0b318;
+    font-size:50px ; 
+}
+.img2
+{
+    margin-left: 40%;
+    padding-top: 0%;
+    padding-bottom: 0px;
+}
+.quote2
+{
+    margin-top: 8%;
+    margin-left: 10%;
+}
+.zeereview
+{
+    padding-right: 50%;
+    color: #f0b318;
+    font-size:50px ; 
+}
+.img3
+{
+    margin-left: 40%;
+    padding-top: 0%;
+    padding-bottom: 0px;
+}
+.quote3
+{
+    margin-top: 8%;
+    margin-left: 10%;
+}
+.techradar_review
+{
+    padding-right: 50%;
+    color: #f0b318;
+    font-size:50px ; 
+}
+.img4
+{
+    margin-left: 40%;
+    padding-top: 0%;
+    padding-bottom: 0px;
+}
+.quote4
+{
+    margin-top: 8%;
+    margin-left: 10%;
+}
+.expert_reviews::-webkit-scrollbar
+{
+    display: none;
+}
+#whybuy
+{
+    margin-top: 5%;
+    margin-left: 13%;
+}
+.footer
+{
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";    
+    height: 400px;
+    background-color: white;
+    width: 100%;
+    align-items: flex-start;
+}
+.footerdetails
+{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    
+}
+.firstfooter
+{
+    margin-top: 3%;
+    margin-left: 15%;
+    color: black;
+}
+h3{
+    text-decoration: none;
+}
+.secondfooter
+{
+    margin-top: 3%;
+    margin-left: 5%;
+    color: black;
+}
+.thirdfooter
+{
+    margin-top: 3%;
+    margin-left: 5%;
+    color: black;
+}
+.fourthfooter
+{
+    margin-top: 3%;
+    margin-left: 20%;
+    color: black;
+}
+
+#copyright
+{
+    color: white;
+    /* position:absolute; */
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+#copy
+{
+    justify-content: center;
+    text-align: center;
+}
+p
+{
+    font-family: "AvenirNext","Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu,sans-serif,"WebRupee";
+    /* align-items: center; */
+    color: #f0b318;
+    width: 60vw;
+    font-size: 55%;
+}
+body
+{
+    text-decoration: none;
+    margin: 0;
+    color: black;
+    background-color: black;
+}
+.fa 
+{
+    padding: 0px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    color: gray;
+}
+
+.mainbody
+{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.mainbody ::-webkit-scrollbar
+{
+    display: none;
+}
+.mainbody{
+    height:10%;
+    width: 100%;
+}
